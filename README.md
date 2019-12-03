@@ -1,0 +1,2 @@
+# NotesApp
+nodeJS + mongoDB + pug
